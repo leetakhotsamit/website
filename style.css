@@ -40,7 +40,7 @@ body {
   
     display: flex;
     flex-direction: column;
-    background:url('../static1_squarespace_com-DNA.gif') repeat;
+    background:url('https://static1.squarespace.com/static/53f37792e4b03f7a2b0b2ab0/59a36f5ce4fcb5aae6a4842a/59a36f5f6b8f5be647050d11/1503883104613/DNA.gif') repeat;
     background-size: cover;
     background-position: center;
   }
